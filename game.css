@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	height: 100%
+}
+
+body {
+	height: 100%;
+	margin: 0;
+}
+
+#content {
+	height: 100%;
+}
+
+#startDiv {
+		height: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+}
+
+header {
+	display: flex;
+}
+
+#leftDiv {
+	border: 1px solid red;
+	flex-grow: 2;
+}
+
+#rightDiv {
+	border: 1px solid blue;
+	flex-grow: 1;
+}
