@@ -1,1 +1,1 @@
-# INTGitClass
+# INTGitClass Submarine game
